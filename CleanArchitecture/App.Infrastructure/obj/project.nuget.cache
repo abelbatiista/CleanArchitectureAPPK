@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ivZWDKFqsi+CQGZ+9Z//tORrwHXZqjQ3j++bIfgqkwYw+agexIojT4fn4j9G4xKEVbOc0MDYQzzlm9uTwrBxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abelb\\Desktop\\ITLA\\CUATRIMESTRES\\CUATRIMESTRE IV\\II. PROGRAMACIÓN II\\MÓDULO VI - FINAL\\PROYECTO FINAL\\FINAL\\CleanArchitecture\\App.Infrastructure\\App.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\abelb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
